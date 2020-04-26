@@ -9,5 +9,14 @@
 }
 body{
     background: #ccc;
-    color: black;
+    color: #000;
+}
+
+h1{
+    font: 20px;
+    margin-bottom: 10px;
+}
+
+p{
+    color: #ddd;
 }
